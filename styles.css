@@ -1,0 +1,133 @@
+body {
+  background-color: #d5d6de;
+}
+.container1 {
+  display: flex;
+  background-color: white;
+  width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5%;
+  height: 400px;
+  border-radius: 10px;
+  flex-direction: column;
+  justify-content: space-around;
+  box-shadow: 1px 1px 1px 1px #898d91;
+}
+.container2 {
+  display: flex;
+  width: 600px;
+  height: 125px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10px;
+  margin-top: 5%;
+  background-color: white;
+  box-shadow: 1px 1px 1px 1px #898d91;
+}
+.container3 {
+  display: flex;
+  width: 600px;
+  height: 1100px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10px;
+  margin-top: 5%;
+  background-color: white;
+  flex-direction: column;
+  box-shadow: 1px 1px 1px 1px #898d91;
+}
+.tim {
+  border-radius: 50px;
+  border: 2px solid #998f81;
+  margin-left: auto;
+  margin-right: auto;
+  height: 90px;
+  width: 90px;
+}
+h2 {
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+  color: #008f74;
+  margin-bottom: 0;
+}
+h3 {
+  color: #bfc0c7;
+  text-align: center;
+}
+.para {
+  color: #bfc0c7;
+  padding-left: 5%;
+  padding-right: 5%;
+  text-align: justify;
+  height: 50px;
+}
+.wiki {
+  margin-right: auto;
+  margin-left: auto;
+  height: 70px;
+}
+.button {
+  border-radius: 20px;
+  background-color: #008f74;
+  font-size: larger;
+  color: white;
+  width: 200px;
+  height: 50px;
+  cursor: pointer;
+}
+.liste {
+  margin: auto;
+}
+li {
+  display: inline-block;
+  margin: auto;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.lien {
+  color: #bfc0c7;
+  text-decoration: none;
+  font-size: 25px;
+}
+#logof {
+  position: relative;
+  left: 30px;
+}
+#logol {
+  position: relative;
+  left: 25px;
+}
+#logot {
+  position: relative;
+  left: 22px;
+}
+.movie {
+  font-size: 25px;
+}
+.img {
+  float: left;
+  width: 170px;
+  height: 280px;
+}
+.text {
+  text-align: justify;
+  color: #bfc0c7;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 18px;
+  line-height: 30px;
+  padding-left: 20px;
+  position: relative;
+  left: 15px;
+}
+.bloc {
+  margin-left: 20px;
+  padding-bottom: 70px;
+}
+.titre {
+  text-align: center;
+  color: #bfc0c7;
+  font-weight: bold;
+}
